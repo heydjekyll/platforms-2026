@@ -8,7 +8,7 @@
 
 *hubbl.dev, Oct 22, 2026. Data accessed Oct 22, 2026.*
 
-*Legend: ⬆️ growing, ⬇️ declining, ➖ stable. Each symbol reflects the sourced trend figure cited in the entry; entries without a reliable trend figure carry no symbol.*
+*Legend: ⬆️ a sourced figure shows a rise of more than about 3%; ⬇️ a sourced figure shows a decline of more than about 3%; ➖ with a sourced figure, the measured change is within about 3% either way (for example Mastodon, -2.6%); ➖ followed by "(trend not measured)", no sourced trend figure exists, so no direction is claimed. Each symbol reflects the sourced trend figure cited in the entry.*
 
 *Scores out of 8 add four criteria rated 0 to 2 from the cited sources (automation not assessed); see Method and verification.*
 
@@ -362,7 +362,7 @@ Several claims were dropped for lack of a primary source: the renaming of Warpca
 
 Rules applied to every score: with no sourced figure, audience scores 0 and trend scores 1 (undocumented); a platform that has ceased operations scores 0 on all four criteria. Official figures come first. When no official figure exists, estimates from measurement firms (Similarweb, Sensor Tower, Streamlabs and Stream Hatchet, Streams Charts) are used and flagged as such in the entry; figures relayed only by statistics or aggregator sites, without a primary source, are not scored.
 
-The trend symbols next to the headings (⬆️ growing, ⬇️ declining, ➖ stable) follow one rule: each symbol is justified by a sourced trend figure on audience, activity or revenue over roughly the last 12 months that is already cited in the entry, with audience or activity preferred. Stable (➖) is used only when the sourced change is within about 3% either way. Entries without such a figure carry no symbol; stable is never used as a default. A symbol based on revenue does not change the audience trend score in the ranking.
+The trend symbols next to the headings follow one rule: ⬆️, ⬇️ and ➖ without a note are each justified by a sourced trend figure on audience, activity or revenue over roughly the last 12 months that is already cited in the entry, with audience or activity preferred. ⬆️ marks a rise of more than about 3%, ⬇️ a decline of more than about 3%, and ➖ a sourced change within about 3% either way, as for Mastodon (-2.6%). When no such figure exists, the heading shows ➖ followed by "(trend not measured)": no direction is claimed, so you should not read it as stable. A symbol based on revenue does not change the audience trend score in the ranking.
 
 ### Source list
 
