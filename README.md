@@ -10,6 +10,7 @@ A sourced comparison of 22 social platforms that weighs what each one promised c
 
 **Top of the ranking:** Meta, Reddit, Snapchat and Telegram, tied at 8/8.
 
+- **Read the full article on X: [x.com/djekyll](https://x.com/djekyll/status/2113260562750619752)**
 - Read the article: [article-plateformes-2026-10-22.md](article-plateformes-2026-10-22.md)
 - Check the sources: all 124 are listed in [sources-article-plateformes-2026-10-22.md](sources-article-plateformes-2026-10-22.md)
 - X versions: [article-plateformes-2026-10-22-x.md](article-plateformes-2026-10-22-x.md) and [article-plateformes-2026-10-22-x.html](article-plateformes-2026-10-22-x.html)
