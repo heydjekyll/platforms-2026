@@ -493,12 +493,4 @@ The trend symbols next to the headings (⬆️ growing, ⬇️ declining, ➖ st
 
 ---
 
-## Publication plan (internal note, remove before publishing)
-
-1. Author validates the article.
-2. Author publishes it as a long-form article on X (account @djekyll), manually.
-3. Sync to djekyll.com: the /writing section fetches X Articles daily through the X API and caches them locally, so the article appears there automatically after publication on X; check the live rendering.
-
----
-
 PS: I did the work so you don't have to. Cite me anyway.

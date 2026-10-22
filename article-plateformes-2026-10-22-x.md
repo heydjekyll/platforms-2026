@@ -1,24 +1,3 @@
-<!-- INTERNAL CHECKLIST: delete everything from here to END CHECKLIST before pasting into X -->
-**Internal checklist (delete before pasting)**
-
-- Cover (upload in X's cover field): assets/article-plateformes-2026-10-22/cover.png
-- Title field: What These Platforms Promised Creators
-- Subtitle: first line of the body (Twenty-Two Platforms and Their Promises, Decoded)
-- Charts to upload manually, in order (7), at each [CHART n] placeholder:
-    1. assets/article-plateformes-2026-10-22/reddit-dauq.png (Reddit: daily active uniques)
-    2. assets/article-plateformes-2026-10-22/poe-visites.png (Poe: estimated monthly visits)
-    3. assets/article-plateformes-2026-10-22/hive-cours.png (HIVE: daily price)
-    4. assets/article-plateformes-2026-10-22/jetons-base100.png (Platform-linked tokens, indexed to 100)
-    5. assets/article-plateformes-2026-10-22/djt-cours.png (Trump Media (DJT): weekly share price)
-    6. assets/article-plateformes-2026-10-22/zora-revenus-mensuels.png (Zora: monthly protocol revenue)
-    7. assets/article-plateformes-2026-10-22/audiences.png (Reported or estimated audiences)
-- Delete each placeholder line after inserting its image.
-- Contents entries are plain text: X Articles does not support in-page anchors.
-- Tables were converted to bullet lists (X editor has no tables).
-- The .html file omits this checklist and the H1 title: open it in a browser, select all, paste into the X body.
-- Do not paste this checklist. END CHECKLIST
-
----
 # What These Platforms Promised Creators
 
 ## Twenty-Two Platforms and Their Promises, Decoded
