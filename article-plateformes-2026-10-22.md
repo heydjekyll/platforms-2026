@@ -18,35 +18,35 @@ This article reviews 22 platforms. For each one, you will find a dated timeline,
 
 ## Contents
 
-1. [Meta (Facebook, Instagram, WhatsApp, Threads)](#1-meta---88)
-2. [Reddit](#2-reddit---88)
-3. [Snapchat](#3-snapchat---88)
-4. [Telegram](#4-telegram---88)
-5. [Kick](#5-kick---78)
-6. [YouTube](#6-youtube---78)
-7. [TikTok](#7-tiktok--68)
-8. [Twitch](#8-twitch---68)
-9. [LinkedIn](#9-linkedin---58)
-10. [Odysee](#10-odysee--58)
-11. [Poe](#11-poe---58)
-12. [X](#12-x---58)
-13. [Hive](#13-hive---48)
-14. [Nostr](#14-nostr--48)
-15. [Paragraph](#15-paragraph--48)
-16. [Bluesky](#16-bluesky---38)
-17. [Farcaster](#17-farcaster--28)
-18. [Lens](#18-lens--28)
-19. [Mastodon](#19-mastodon---28)
-20. [Truth Social](#20-truth-social---28)
-21. [Zora](#21-zora---28)
-22. [DLive](#22-dlive--08)
+1. [Meta (Facebook, Instagram, WhatsApp, Threads)](#1-meta--88)
+2. [Reddit](#2-reddit--88)
+3. [Snapchat](#3-snapchat--88)
+4. [Telegram](#4-telegram--88)
+5. [Kick](#5-kick--78)
+6. [YouTube](#6-youtube--78)
+7. [TikTok](#7-tiktok-68)
+8. [Twitch](#8-twitch--68)
+9. [LinkedIn](#9-linkedin--58)
+10. [Odysee](#10-odysee-58)
+11. [Poe](#11-poe--58)
+12. [X](#12-x--58)
+13. [Hive](#13-hive--48)
+14. [Nostr](#14-nostr-48)
+15. [Paragraph](#15-paragraph-48)
+16. [Bluesky](#16-bluesky--38)
+17. [Farcaster](#17-farcaster-28)
+18. [Lens](#18-lens-28)
+19. [Mastodon](#19-mastodon--28)
+20. [Truth Social](#20-truth-social--28)
+21. [Zora](#21-zora--28)
+22. [DLive](#22-dlive-08)
 23. [Ranking](#ranking)
 24. [Sources](#sources)
     - [Method and verification](#method-and-verification)
 
 ---
 
-## 1. Meta ⬆️ — 8/8
+## 1. Meta ⬆️ 8/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/meta.png" alt="Meta logo" width="64">
 
@@ -78,7 +78,7 @@ After its July 2023 launch, Threads lost about 70% of its daily active users in 
 
 ---
 
-## 2. Reddit ⬆️ — 8/8
+## 2. Reddit ⬆️ 8/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/reddit.png" alt="Reddit logo" width="64">
 
@@ -90,7 +90,7 @@ On Jun 12, 2023, more than 8,000 subreddits went dark or read-only to protest Re
 
 ---
 
-## 3. Snapchat ⬆️ — 8/8
+## 3. Snapchat ⬆️ 8/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/snapchat.png" alt="Snapchat logo" width="64">
 
@@ -98,7 +98,7 @@ In Q1 2026, Snapchat had 956 million monthly active users and 483 million daily 
 
 ---
 
-## 4. Telegram ⬆️ — 8/8
+## 4. Telegram ⬆️ 8/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/telegram.png" alt="Telegram logo" width="64">
 
@@ -106,7 +106,7 @@ In 2024, Telegram added monthly subscriptions paid in Stars and Star Reactions, 
 
 ---
 
-## 5. Kick ⬆️ — 7/8
+## 5. Kick ⬆️ 7/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/kick.png" alt="Kick logo" width="64">
 
@@ -114,7 +114,7 @@ Kick is a social livestreaming platform. It opened in beta in December 2022, whe
 
 ---
 
-## 6. YouTube ⬆️ — 7/8
+## 6. YouTube ⬆️ 7/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/youtube.png" alt="YouTube logo" width="64">
 
@@ -122,7 +122,7 @@ YouTube is a social video-sharing platform. On Jul 26, 2023, more than 2 billion
 
 ---
 
-## 7. TikTok — 6/8
+## 7. TikTok 6/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/tiktok.png" alt="TikTok logo" width="64">
 
@@ -130,7 +130,7 @@ On Jan 22, 2026, TikTok USDS Joint Venture LLC was created in the United States:
 
 ---
 
-## 8. Twitch ⬇️ — 6/8
+## 8. Twitch ⬇️ 6/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/twitch.png" alt="Twitch logo" width="64">
 
@@ -138,7 +138,7 @@ Twitch is a social livestreaming platform. In October 2023, Twitch launched the 
 
 ---
 
-## 9. LinkedIn ⬆️ — 5/8
+## 9. LinkedIn ⬆️ 5/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/linkedin.png" alt="LinkedIn logo" width="64">
 
@@ -146,7 +146,7 @@ In April 2025, LinkedIn's Wire program became BrandLink and opened to creator sh
 
 ---
 
-## 10. Odysee — 5/8
+## 10. Odysee 5/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/odysee.png" alt="Odysee logo" width="64">
 
@@ -154,7 +154,7 @@ Odysee is a social video platform created in December 2020 on the LBRY blockchai
 
 ---
 
-## 11. Poe ⬇️ — 5/8
+## 11. Poe ⬇️ 5/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/poe.png" alt="Poe logo" width="64">
 
@@ -166,7 +166,7 @@ On Poe, a bot creator sets a price per message, up to $10,000 per 1,000 messages
 
 ---
 
-## 12. X ⬇️ — 5/8
+## 12. X ⬇️ 5/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/x.png" alt="X logo" width="64">
 
@@ -174,7 +174,7 @@ On Jul 13, 2023, Twitter made its first ad revenue sharing payments to verified 
 
 ---
 
-## 13. Hive ⬇️ — 4/8
+## 13. Hive ⬇️ 4/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/hive.png" alt="Hive logo" width="64">
 
@@ -186,7 +186,7 @@ Hive is a social blockchain born from a fork of Steem. On Feb 14, 2020, Justin S
 
 ---
 
-## 14. Nostr — 4/8
+## 14. Nostr 4/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/nostr.png" alt="Nostr logo" width="64">
 
@@ -194,7 +194,7 @@ Nostr is a protocol, not a company: payment goes through zaps, Lightning payment
 
 ---
 
-## 15. Paragraph — 4/8
+## 15. Paragraph 4/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/paragraph.png" alt="Paragraph logo" width="64">
 
@@ -202,7 +202,7 @@ On May 2, 2024, Paragraph announced a $5M raise and the acquisition of Mirror [2
 
 ---
 
-## 16. Bluesky ⬇️ — 3/8
+## 16. Bluesky ⬇️ 3/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/bluesky.png" alt="Bluesky logo" width="64">
 
@@ -210,7 +210,7 @@ On Feb 6, 2024, Bluesky ended invite codes and opened to the public [32]. After 
 
 ---
 
-## 17. Farcaster — 2/8
+## 17. Farcaster 2/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/farcaster.png" alt="Farcaster logo" width="64">
 
@@ -222,7 +222,7 @@ On Jan 21, 2026, Neynar announced the acquisition of Farcaster from Merkle Manuf
 
 ---
 
-## 18. Lens — 2/8
+## 18. Lens 2/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/lens.png" alt="Lens logo" width="64">
 
@@ -230,7 +230,7 @@ On Dec 18, 2024, Lens announced a $31M strategic raise led by Lightspeed Faction
 
 ---
 
-## 19. Mastodon ➖ — 2/8
+## 19. Mastodon ➖ 2/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/mastodon.png" alt="Mastodon logo" width="64">
 
@@ -238,7 +238,7 @@ Mastodon had its first public launch in October 2016 [38]. During the migration 
 
 ---
 
-## 20. Truth Social ⬇️ — 2/8
+## 20. Truth Social ⬇️ 2/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/truthsocial.png" alt="Truth Social logo" width="64">
 
@@ -250,7 +250,7 @@ Trump Media (TMTG), which operates Truth Social, reported $3.6M in net sales in 
 
 ---
 
-## 21. Zora ⬇️ — 2/8
+## 21. Zora ⬇️ 2/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/zora.png" alt="Zora logo" width="64">
 
@@ -262,7 +262,7 @@ On Feb 21, 2025, Zora announced that posts would become tradable "coins", and NF
 
 ---
 
-## 22. DLive — 0/8
+## 22. DLive 0/8
 
 <img src="assets/article-plateformes-2026-10-22/logos/dlive.png" alt="DLive logo" width="64">
 
