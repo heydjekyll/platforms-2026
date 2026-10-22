@@ -1,5 +1,7 @@
 # What These Platforms Promised Creators
 
+![What These Platforms Promised Creators](assets/readme-cover.jpg)
+
 *Twenty-Two Platforms and Their Promises, Decoded*
 
 A sourced comparison of 22 social platforms that weighs what each one promised creators against what it actually delivers.
