@@ -24,22 +24,22 @@ This article reviews 22 platforms. For each one, you will find a dated timeline,
 4. [Telegram](#4-telegram-️-88)
 5. [Kick](#5-kick-️-78)
 6. [YouTube](#6-youtube-️-78)
-7. [TikTok](#7-tiktok-68)
+7. [TikTok](#7-tiktok--68-trend-not-measured)
 8. [Twitch](#8-twitch-️-68)
 9. [LinkedIn](#9-linkedin-️-58)
-10. [Odysee](#10-odysee-58)
+10. [Odysee](#10-odysee--58-trend-not-measured)
 11. [Poe](#11-poe-️-58)
 12. [X](#12-x-️-58)
 13. [Hive](#13-hive-️-48)
-14. [Nostr](#14-nostr-48)
-15. [Paragraph](#15-paragraph-48)
+14. [Nostr](#14-nostr--48-trend-not-measured)
+15. [Paragraph](#15-paragraph--48-trend-not-measured)
 16. [Bluesky](#16-bluesky-️-38)
-17. [Farcaster](#17-farcaster-28)
-18. [Lens](#18-lens-28)
+17. [Farcaster](#17-farcaster--28-trend-not-measured)
+18. [Lens](#18-lens--28-trend-not-measured)
 19. [Mastodon](#19-mastodon--28)
 20. [Truth Social](#20-truth-social-️-28)
 21. [Zora](#21-zora-️-28)
-22. [DLive](#22-dlive-08)
+22. [DLive](#22-dlive--08-trend-not-measured)
 23. [Ranking](#ranking)
 24. [Sources](#sources)
     - [Method and verification](#method-and-verification)
@@ -122,7 +122,7 @@ YouTube is a social video-sharing platform. On Jul 26, 2023, more than 2 billion
 
 ---
 
-## 7. TikTok 6/8
+## 7. TikTok ➖ 6/8 (trend not measured)
 
 <img src="assets/article-plateformes-2026-10-22/logos/tiktok.png" alt="TikTok logo" width="64">
 
@@ -146,7 +146,7 @@ In April 2025, LinkedIn's Wire program became BrandLink and opened to creator sh
 
 ---
 
-## 10. Odysee 5/8
+## 10. Odysee ➖ 5/8 (trend not measured)
 
 <img src="assets/article-plateformes-2026-10-22/logos/odysee.png" alt="Odysee logo" width="64">
 
@@ -186,7 +186,7 @@ Hive is a social blockchain born from a fork of Steem. On Feb 14, 2020, Justin S
 
 ---
 
-## 14. Nostr 4/8
+## 14. Nostr ➖ 4/8 (trend not measured)
 
 <img src="assets/article-plateformes-2026-10-22/logos/nostr.png" alt="Nostr logo" width="64">
 
@@ -194,7 +194,7 @@ Nostr is a protocol, not a company: payment goes through zaps, Lightning payment
 
 ---
 
-## 15. Paragraph 4/8
+## 15. Paragraph ➖ 4/8 (trend not measured)
 
 <img src="assets/article-plateformes-2026-10-22/logos/paragraph.png" alt="Paragraph logo" width="64">
 
@@ -210,7 +210,7 @@ On Feb 6, 2024, Bluesky ended invite codes and opened to the public [32]. After 
 
 ---
 
-## 17. Farcaster 2/8
+## 17. Farcaster ➖ 2/8 (trend not measured)
 
 <img src="assets/article-plateformes-2026-10-22/logos/farcaster.png" alt="Farcaster logo" width="64">
 
@@ -222,7 +222,7 @@ On Jan 21, 2026, Neynar announced the acquisition of Farcaster from Merkle Manuf
 
 ---
 
-## 18. Lens 2/8
+## 18. Lens ➖ 2/8 (trend not measured)
 
 <img src="assets/article-plateformes-2026-10-22/logos/lens.png" alt="Lens logo" width="64">
 
@@ -262,7 +262,7 @@ On Feb 21, 2025, Zora announced that posts would become tradable "coins", and NF
 
 ---
 
-## 22. DLive 0/8
+## 22. DLive ➖ 0/8 (trend not measured)
 
 <img src="assets/article-plateformes-2026-10-22/logos/dlive.png" alt="DLive logo" width="64">
 
