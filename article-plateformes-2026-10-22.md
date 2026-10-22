@@ -2,6 +2,8 @@
 
 ## Twenty-Two Platforms and Their Promises, Decoded
 
+*How the scoring works: see [Method and verification](#method-and-verification) at the end.*
+
 ![Cover: 22 platforms and their creator payment programs](assets/article-plateformes-2026-10-22/cover.png)
 
 *hubbl.dev, Oct 22, 2026. Data accessed Oct 22, 2026.*
